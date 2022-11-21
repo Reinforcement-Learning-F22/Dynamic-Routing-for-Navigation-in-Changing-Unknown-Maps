@@ -1,4 +1,4 @@
-# Dynamic-Routing-for-Navigation-in-Changing-Unknown-Maps
+# Dynamic Routing for Navigation in Changing Unknown Maps
 
 Using Reinforcement Learning (RL) algorithms to plan a global route for mobile robot navigation problems. Q-learning, Sarsa, and Double Q-learning algorithms for the environment with cliff, mouse, and cheese are compared.
 
