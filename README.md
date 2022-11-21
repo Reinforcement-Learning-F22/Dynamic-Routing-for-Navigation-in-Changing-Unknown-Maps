@@ -23,6 +23,7 @@ The weights table, or Q-table of the system state, is the main part of the RL ap
 * _agent_brain.py_ - implementation of algorithm itself.
 * _run_agent.py_ - running the experiments.
 
+**Q-Learning Environment-1. Experimental results**
 
 
 
